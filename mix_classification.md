@@ -15,10 +15,13 @@
 - POJ-3094 水
 - POJ-3299 水 / 减半递推？
 - URAL-1068 水
+- UVA-442 栈
 ### Normal
 - POJ-1019 打表 思维
 - UVA-210 模拟 队列
 - UVA-514 模拟 栈
+- UVA-11988 链表
+- UVA-12657 双向链表 标记
 ### Hard
 ### Lunatic
 ### Extra
