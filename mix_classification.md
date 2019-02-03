@@ -16,12 +16,14 @@
 - POJ-3299 水 / 减半递推？
 - URAL-1068 水
 - UVA-442 栈
+- UVA-572 DFS染色
 - UVA-679 思维
 - UVA-699 递归
 ### Normal
 - POJ-1019 打表 思维
 - UVA-122 二叉树 BFS
 - UVA-210 模拟 队列
+- UVA-297 递归
 - UVA-514 模拟 栈
 - UVA-548 二叉树 DFS
 - UVA-839 递归
