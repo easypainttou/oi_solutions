@@ -37,6 +37,8 @@
 - loj-10036 前缀函数 公共前缀后缀
 - loj-10043 kmp 不重叠字串
 - loj-10049 trie
+- loj-10050 01trie 2数异或和最大
+- loj-10057 ac自动机
 ### Normal
 - POJ-1019 打表 思维
 - UVA-122 二叉树 BFS
@@ -56,7 +58,7 @@
 - loj-10017 三分套三分 / 模拟退火？
 - loj-10064 最短路 最短路径生成树
 - loj-10065 最小生成树
-- loj
+- loj-10072 floyd 最小环
 ### Hard
 ### Lunatic
 ### Extra
