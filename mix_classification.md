@@ -47,6 +47,8 @@
 - loj-10114 树状数组 二维偏序
 - loj-10119 st表 RMQ
 - loj-10120 st表 RMQ / 单调队列？
+- loj-10130 lca
+- loj-10131 lca 树上差分
 ### Normal
 - POJ-1019 打表 思维
 - POJ-2253 单源最短路 不同的松弛操作
@@ -76,6 +78,8 @@
 - loj-10098 tarjan 桥 边双连通
 - loj-10099 tarjan 割点 点双连通
 - loj-10115 树状数组
+- loj-10132 lca STL-set
+- loj-10133 次小生成树 kruskal lca
 ### Hard
 ### Lunatic
 ### Extra
