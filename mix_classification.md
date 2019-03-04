@@ -52,6 +52,8 @@
 - loj-10138 树链剖分
 - loj-10143 平衡树
 - CodeForces-498A 思维 计算几何
+- CodeForces-500B floyd 求闭包
+- CodeForces-500C 贪心 模拟
 ### Normal
 - POJ-1019 打表 思维
 - POJ-1797 单源最短路 不同的松弛操作
