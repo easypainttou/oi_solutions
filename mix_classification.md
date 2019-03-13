@@ -69,6 +69,7 @@
 - CodeForces-500C 贪心 模拟
 - CodeForces-670C map 排序
 - HDU-4699 对顶栈 前缀和 dp
+- PTA-7-20 中缀表达式 后缀表达式 栈 / 表达式树
 ### Normal
 - POJ-1019 打表 思维
 - POJ-1797 单源最短路 不同的松弛操作
