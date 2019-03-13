@@ -13,8 +13,10 @@
 - POJ-2136 水
 - POJ-2196 水
 - POJ-2242 计算几何
+- POJ-2259 队列 模拟
 - POJ-2299 逆序对 归并排序 / 树状数组
 - POJ-2387 单源最短路
+- POJ-2559 单调栈
 - POJ-2739 素数表 尺取法
 - POJ-2893 n*m数码 逆序对
 - POJ-3006 素数表 枚举
@@ -66,6 +68,7 @@
 - CodeForces-500B floyd 求闭包
 - CodeForces-500C 贪心 模拟
 - CodeForces-670C map 排序
+- HDU-4699 对顶栈 前缀和 dp
 ### Normal
 - POJ-1019 打表 思维
 - POJ-1797 单源最短路 不同的松弛操作
