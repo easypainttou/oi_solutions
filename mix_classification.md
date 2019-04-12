@@ -69,6 +69,7 @@
 - loj-10143 平衡树 / STL-set /链表
 - loj-10203 反素数 dfs
 - loj-10211 快速幂 exgcd 逆元 / 分治？
+- loj-10212 crt
 - BZOJ-1218 二维前缀和
 - BZOJ-3032 环形均分纸牌 货仓选址
 - CodeForces-498A 思维 计算几何
@@ -113,6 +114,7 @@
 - loj-10132 lca STL-set
 - loj-10133 次小生成树 kruskal lca
 - BZOJ-2721 欧拉筛 算术基本原理
+- CodeForces-546D 欧拉筛 dp
 ### Hard
 ### Lunatic
 ### Extra
