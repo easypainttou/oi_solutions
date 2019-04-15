@@ -79,7 +79,7 @@
 - CodeForces-670C map 排序
 - HDU-4699 对顶栈 前缀和 dp
 - PTA-7-20 中缀表达式 后缀表达式 栈 / 表达式树
-- vijos-p1696 连分数
+- vijos-1696 连分数
 ### Normal
 - POJ-1019 打表 思维
 - POJ-1797 单源最短路 不同的松弛操作
@@ -118,6 +118,8 @@
 - loj-10133 次小生成树 kruskal lca
 - BZOJ-2721 欧拉筛 算术基本原理
 - CodeForces-546D 欧拉筛 dp
+- vijos-1554 递推 规律 二进制
 ### Hard
+
 ### Lunatic
 ### Extra
