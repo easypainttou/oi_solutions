@@ -71,8 +71,15 @@
 - loj-10203 反素数 dfs
 - loj-10211 快速幂 exgcd 逆元 / 分治？
 - loj-10212 crt
+- loj-10214 快速幂 逆元 bsgs
+- loj-10220 矩阵快速幂
+- loj-10221 矩阵快速幂
+- loj-10222 矩阵快速幂
+- loj-10241 bash博弈
+- loj-10242 nim博弈
 - BZOJ-1218 二维前缀和
 - BZOJ-3032 环形均分纸牌 货仓选址
+- BZOJ-3122 快速幂 bsgs 逆元
 - CodeForces-498A 思维 计算几何
 - CodeForces-500B floyd 求闭包
 - CodeForces-500C 贪心 模拟
@@ -80,6 +87,7 @@
 - HDU-4699 对顶栈 前缀和 dp
 - PTA-7-20 中缀表达式 后缀表达式 栈 / 表达式树
 - vijos-1696 连分数
+- luogu-2152 高精度 gcd 更相减损术
 ### Normal
 - POJ-1019 打表 思维
 - POJ-1797 单源最短路 不同的松弛操作
