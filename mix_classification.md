@@ -61,6 +61,7 @@
 - loj-10066 最小生成树
 - loj-10091 tarjan 缩点
 - loj-10105 欧拉回路
+- loj-10106 欧拉道路
 - loj-10114 树状数组 二维偏序
 - loj-10119 st表 RMQ
 - loj-10120 st表 RMQ / 单调队列？
@@ -75,8 +76,11 @@
 - loj-10220 矩阵快速幂
 - loj-10221 矩阵快速幂
 - loj-10222 矩阵快速幂
+- loj-10228 lucas定理
 - loj-10241 bash博弈
 - loj-10242 nim博弈
+- loj-10243 博弈 sg函数
+- loj-10249 dfs
 - BZOJ-1218 二维前缀和
 - BZOJ-3032 环形均分纸牌 货仓选址
 - BZOJ-3122 快速幂 bsgs 逆元
@@ -124,6 +128,8 @@
 - loj-10115 树状数组
 - loj-10132 lca STL-set
 - loj-10133 次小生成树 kruskal lca
+- loj-10227 高精度 组合数
+- BZOJ-1951 组合数 lucas定理 crt 快速幂 逆元
 - BZOJ-2721 欧拉筛 算术基本原理
 - CodeForces-546D 欧拉筛 dp
 - vijos-1554 递推 规律 二进制
