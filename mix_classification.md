@@ -69,6 +69,7 @@
 - loj-10131 lca 树上差分
 - loj-10138 树链剖分
 - loj-10143 平衡树 / STL-set /链表
+- loj-10147 区间dp
 - loj-10203 反素数 dfs
 - loj-10211 快速幂 exgcd 逆元 / 分治？
 - loj-10212 crt
@@ -126,6 +127,7 @@
 - loj-10098 tarjan 桥 边双连通
 - loj-10099 tarjan 割点 点双连通
 - loj-10115 树状数组
+- loj-10121 dp st表 二分
 - loj-10132 lca STL-set
 - loj-10133 次小生成树 kruskal lca
 - loj-10227 高精度 组合数
