@@ -75,8 +75,11 @@
 - loj-10130 lca
 - loj-10131 lca 树上差分
 - loj-10138 树链剖分
-- loj-10143 平衡树 / STL-set /链表
+- loj-10143 平衡树 / STL-set / 链表
 - loj-10147 区间dp
+- loj-10148 区间dp
+- loj-10149 区间dp 高精度
+- loj-10155 树的直径
 - loj-10203 反素数 dfs
 - loj-10211 快速幂 exgcd 逆元 / 分治？
 - loj-10212 crt
@@ -90,6 +93,7 @@
 - loj-10243 博弈 sg函数
 - loj-10249 dfs
 - BZOJ-1218 二维前缀和
+- BZOJ-2038 莫队算法
 - BZOJ-3032 环形均分纸牌 货仓选址
 - BZOJ-3122 快速幂 bsgs 逆元
 - CodeForces-498A 思维 计算几何
