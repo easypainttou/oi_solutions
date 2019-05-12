@@ -8,6 +8,7 @@
 将dp[j]作为纵坐标，sC[j]作为横坐标，dp[i]最小就是截距最小，在一个下凸点取到
 sC[j]是单调递增的，sT[i]+S是单调递增的
 所以用单调队列维护斜率恰好大于sT[i]+S的决策点，单调队列中的相邻2个决策点的线段的斜率是递增的，用队首更新dp[i]的最小值，然后把下一个决策点加入
+时间复杂度：O(n)
 
 qwq具体看代码
 
@@ -29,7 +30,7 @@ void solve(){
 		int k=st[i]+s;
 		while(head<tail&&dp[q[head+1]]-dp[q[head]]<k*(sc[q[head+1]]-sc[q[head]]))++head;
 		dp[i]=dp[q[head]]+st[i]*(sc[i]-sc[q[head]])+s*(sc[n]-sc[q[head]]);
-		while(head<tail&&(dp[i]-dp[q[tail]])*(sc[q[tail]]-sc[q[tail-1]])<(dp[q[tail]]-dp[q[tail-1]])*(sc[i]-sc[q[tail]]))--tail;
+		while(head<tail&&(dp[i]-dp[q[tail]])*(sc[q[tail]]-sc[q[tail-1]])<=(dp[q[tail]]-dp[q[tail-1]])*(sc[i]-sc[q[tail]]))--tail;
 		q[++tail]=i;
 	}
 	printf("%d",dp[n]);

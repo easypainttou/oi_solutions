@@ -95,6 +95,7 @@
 - loj-10179 多重背包 二进制拆分 / 单调队列
 - loj-10184 dp
 - loj-10185 斜率优化 dp
+- loj-10186 斜率优化 dp 二分
 - loj-10203 反素数 dfs
 - loj-10211 快速幂 exgcd 逆元 / 分治？
 - loj-10212 crt
@@ -115,6 +116,7 @@
 - CodeForces-500B floyd 求闭包
 - CodeForces-500C 贪心 模拟
 - CodeForces-670C map 排序
+- HDU-2222 ac自动机
 - HDU-4699 对顶栈 前缀和 dp
 - PTA-7-20 中缀表达式 后缀表达式 栈 / 表达式树
 - vijos-1696 连分数
