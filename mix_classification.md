@@ -117,6 +117,7 @@
 - CodeForces-500C 贪心 模拟
 - CodeForces-670C map 排序
 - HDU-2222 ac自动机
+- HDU-2896 ac自动机
 - HDU-4699 对顶栈 前缀和 dp
 - PTA-7-20 中缀表达式 后缀表达式 栈 / 表达式树
 - vijos-1696 连分数
