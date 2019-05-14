@@ -60,11 +60,11 @@ struct ac{
 
 void solve(){
 	scanf("%d",&n);
-	for(int i=1;i<=n;i++)scanf("%s",str),ac1.insertStr(i);
+	for(int i=1;i<=n;i++)scanf("%s",str),ac1.insertStr(i); //应该读一行的，然而scanf也过了？
 	ac1.getFail();
 	scanf("%d",&m);
 	for(int i=1;i<=m;i++){
-		scanf("%s",str2);
+		scanf("%s",str2); //应该读一行的，然而scanf也过了？
 		ac1.getAns();
 		if(ans.size()){
 			++cnt;

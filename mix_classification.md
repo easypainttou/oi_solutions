@@ -59,9 +59,9 @@
 - loj-10016 三分 / 其实可推O（1）公式？
 - loj-10018 dfs 搜索
 - loj-10034 map / hash
-- loj-10035 前缀函数 字符串最小循环元
-- loj-10036 前缀函数 公共前缀后缀
-- loj-10043 kmp 不重叠字串
+- loj-10035/POJ-2406 前缀函数 字符串最小循环元
+- loj-10036/POJ-2752 前缀函数 公共前缀后缀
+- loj-10043/HDU-2087 kmp 不重叠字串
 - loj-10049 trie
 - loj-10050 01trie 2数异或和最大
 - loj-10057 ac自动机
@@ -116,14 +116,20 @@
 - CodeForces-500B floyd 求闭包
 - CodeForces-500C 贪心 模拟
 - CodeForces-670C map 排序
+- HDU-1358 kmp 循环节
 - HDU-2222 ac自动机
+- HDU-2594 kmp 公共前缀后缀
 - HDU-2896 ac自动机
+- HDU-3065 ac自动机
+- HDU-3746 kmp 循环节
 - HDU-4699 对顶栈 前缀和 dp
+- HDU-4856 bfs 状压dp tsp
 - PTA-7-20 中缀表达式 后缀表达式 栈 / 表达式树
 - vijos-1696 连分数
 - luogu-1776 多重背包 单调队列
 - luogu-1879 状压dp
 - luogu-2152 高精度 gcd 更相减损术
+- LightOJ-1370 欧拉函数 欧拉筛
 
 ### Normal
 - POJ-1019 打表 思维
