@@ -22,7 +22,7 @@
 - POJ-2259 队列 模拟
 - POJ-2299 逆序对 归并排序 / 树状数组
 - POJ-2311 sg函数
-- POJ-2387 单源最短路
+- POJ-2387 dijkstra 单源最短路
 - POJ-2449 k短路 a*
 - POJ-2482 线段树 扫描线
 - POJ-2559 单调栈
@@ -59,8 +59,8 @@
 - loj-10016 三分 / 其实可推O（1）公式？
 - loj-10018 dfs 搜索
 - loj-10034 map / hash
-- loj-10035/POJ-2406 前缀函数 字符串最小循环元
-- loj-10036/POJ-2752 前缀函数 公共前缀后缀
+- loj-10035/POJ-2406 kmp 字符串最小循环元
+- loj-10036/POJ-2752 kmp 公共前缀后缀
 - loj-10043/HDU-2087 kmp 不重叠字串
 - loj-10049 trie
 - loj-10050 01trie 2数异或和最大
@@ -116,25 +116,31 @@
 - CodeForces-500B floyd 求闭包
 - CodeForces-500C 贪心 模拟
 - CodeForces-670C map 排序
-- HDU-1358 kmp 循环节
+- HDU-1358 kmp 最小循环节
 - HDU-2222 ac自动机
 - HDU-2594 kmp 公共前缀后缀
+- HDU-2609 最小表示法 STL-set
 - HDU-2896 ac自动机
 - HDU-3065 ac自动机
-- HDU-3746 kmp 循环节
+- HDU-3336 kmp dp
+- HDU-3374 kmp 最小表示法 最大表示法
+- HDU-3746 kmp 最小循环节
+- HDU-4300 kmp 公共前缀后缀
 - HDU-4699 对顶栈 前缀和 dp
 - HDU-4856 bfs 状压dp tsp
 - PTA-7-20 中缀表达式 后缀表达式 栈 / 表达式树
 - vijos-1696 连分数
+- luogu-1073 dijkstra
 - luogu-1776 多重背包 单调队列
 - luogu-1879 状压dp
 - luogu-2152 高精度 gcd 更相减损术
 - LightOJ-1370 欧拉函数 欧拉筛
+- FZU-1901 kmp 循环节
 
 ### Normal
 - POJ-1019 打表 思维
-- POJ-1797 单源最短路 不同的松弛操作
-- POJ-2253 单源最短路 不同的松弛操作
+- POJ-1797 dijkstra 单源最短路 不同的松弛操作
+- POJ-2253 dijkstra 单源最短路 不同的松弛操作
 - POJ-3696 gcd 欧拉定理
 - UVA-122 二叉树 BFS
 - UVA-210 模拟 队列
@@ -155,12 +161,12 @@
 - loj-10017 三分套三分 / 模拟退火？
 - loj-10019 dfs 搜索 剪枝
 - loj-10020 dfs 搜索 剪枝
-- loj-10064 最短路 最短路径生成树
+- loj-10064 dijkstra 最短路 最短路径生成树
 - loj-10065 最小生成树
 - loj-10072 floyd 最小环
-- loj-10074 二分 单源最短路
+- loj-10074 二分 dijkstra 单源最短路
 - loj-10082 二分 dfs-spfa 判正环 最大平均值
-- loj-10087 差分约束系统 / 贪心 区间选点？
+- loj-10087 spfa 差分约束系统 / 贪心 区间选点？
 - loj-10092 tarjan 缩点 拓扑排序 半连通子图
 - loj-10098 tarjan 桥 边双连通
 - loj-10099 tarjan 割点 点双连通
