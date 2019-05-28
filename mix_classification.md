@@ -131,9 +131,12 @@
 - PTA-7-20 中缀表达式 后缀表达式 栈 / 表达式树
 - vijos-1696 连分数
 - luogu-1073 dijkstra
+- luogu-1338 数学 贪心
+- luogu-1372 gcd 数论
 - luogu-1776 多重背包 单调队列
 - luogu-1879 状压dp
 - luogu-2152 高精度 gcd 更相减损术
+- luogu-2158 数论 gcd 欧拉函数
 - LightOJ-1370 欧拉函数 欧拉筛
 - FZU-1901 kmp 循环节
 
