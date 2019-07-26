@@ -41,10 +41,13 @@
 - UVA-572 DFS染色
 - UVA-679 思维
 - UVA-699 递归
+- UVA-11136 STL-multiset
+- UVA-11488 trie
 - UVA-12558 ida* 埃及分数 STL-set
 - loj-103 kmp / 字符串hash
 - loj-130 树状数组 / 线段树
 - loj-2605 exgcd 线性同余方程
+- loj-6000 网络流 二分图匹配
 - loj-10000 贪心 区间选择
 - loj-10001 贪心 区间选点
 - loj-10002 贪心 区间覆盖
@@ -116,6 +119,8 @@
 - CodeForces-500B floyd 求闭包
 - CodeForces-500C 贪心 模拟
 - CodeForces-670C map 排序
+- CodeForces-731C dfs / 并查集
+- CodeForces-1175B 栈 模拟
 - HDU-1358 kmp 最小循环节
 - HDU-2222 ac自动机
 - HDU-2594 kmp 公共前缀后缀
@@ -151,6 +156,7 @@
 - UVA-514 模拟 栈
 - UVA-548 二叉树 DFS
 - UVA-839 递归
+- UVA-1599 bfs
 - UVA-11988 链表
 - UVA-12657 双向链表 标记
 - loj-2589 gcd
@@ -181,7 +187,10 @@
 - BZOJ-1951 组合数 lucas定理 crt 快速幂 逆元
 - BZOJ-2721 欧拉筛 算术基本原理
 - CodeForces-546D 欧拉筛 dp
+- CodeForces-1163B 思维
 - luogu-4168 分块
+- HDU-6301 STL-set
+- HDU-6557 优先队列 并查集
 
 ### Hard
 - vijos-1554 递推 规律 二进制
