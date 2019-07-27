@@ -144,6 +144,7 @@
 - luogu-2158 数论 gcd 欧拉函数
 - LightOJ-1370 欧拉函数 欧拉筛
 - FZU-1901 kmp 循环节
+- ZOJ-3818 暴力
 
 ### Normal
 - POJ-1019 打表 思维
@@ -156,7 +157,7 @@
 - UVA-514 模拟 栈
 - UVA-548 二叉树 DFS
 - UVA-839 递归
-- UVA-1599 bfs
+- UVA-1599 bfs 最短路 最小字典序
 - UVA-11988 链表
 - UVA-12657 双向链表 标记
 - loj-2589 gcd
@@ -187,8 +188,14 @@
 - BZOJ-1951 组合数 lucas定理 crt 快速幂 逆元
 - BZOJ-2721 欧拉筛 算术基本原理
 - CodeForces-546D 欧拉筛 dp
+- CodeForces-631D kmp
+- CodeForces-906B 构造 dfs / 随机化
+- CodeForces-1077E 贪心
+- CodeForces-1156C 尺取法 贪心
 - CodeForces-1163B 思维
+- CodeForces-1176D 构造 素数表
 - luogu-4168 分块
+- HDU-5894 排列组合
 - HDU-6301 STL-set
 - HDU-6557 优先队列 并查集
 
