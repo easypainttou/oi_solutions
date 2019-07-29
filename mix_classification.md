@@ -47,7 +47,7 @@
 - loj-103 kmp / 字符串hash
 - loj-130 树状数组 / 线段树
 - loj-2605 exgcd 线性同余方程
-- loj-6000 网络流 二分图匹配
+- loj-6000 最大流 二分图匹配
 - loj-10000 贪心 区间选择
 - loj-10001 贪心 区间选点
 - loj-10002 贪心 区间覆盖
@@ -189,6 +189,7 @@
 - BZOJ-2721 欧拉筛 算术基本原理
 - CodeForces-546D 欧拉筛 dp
 - CodeForces-631D kmp
+- CodeForces-842D trie
 - CodeForces-906B 构造 dfs / 随机化
 - CodeForces-1077E 贪心
 - CodeForces-1156C 尺取法 贪心
@@ -198,6 +199,7 @@
 - HDU-5894 排列组合
 - HDU-6301 STL-set
 - HDU-6557 优先队列 并查集
+- HDU-6582 最短路 最大流
 
 ### Hard
 - vijos-1554 递推 规律 二进制
