@@ -13,6 +13,7 @@
 - POJ-1830 高斯消元 状压
 - POJ-1833 输出挂
 - POJ-1845 等比数列求和 快速幂 分治 / 逆元？
+- POJ-1849 树的直径
 - POJ-1958 hanoi塔 n盘m塔
 - POJ-1995 快速幂
 - POJ-2136 水
@@ -115,11 +116,16 @@
 - BZOJ-2038 莫队算法
 - BZOJ-3032 环形均分纸牌 货仓选址
 - BZOJ-3122 快速幂 bsgs 逆元
+- CodeForces-166B 凸包
 - CodeForces-498A 思维 计算几何
 - CodeForces-500B floyd 求闭包
 - CodeForces-500C 贪心 模拟
+- CodeForces-543A 二维完全背包
+- CodeForces-546E 最大流
 - CodeForces-670C map 排序
 - CodeForces-731C dfs / 并查集
+- CodeForces-985F 字符串hash
+- CodeForces-1131D 并查集 拓扑排序
 - CodeForces-1175B 栈 模拟
 - HDU-1358 kmp 最小循环节
 - HDU-2222 ac自动机
@@ -142,6 +148,7 @@
 - luogu-1879 状压dp
 - luogu-2152 高精度 gcd 更相减损术
 - luogu-2158 数论 gcd 欧拉函数
+- luogu-3381 最小费用最大流
 - LightOJ-1370 欧拉函数 欧拉筛
 - FZU-1901 kmp 循环节
 - ZOJ-3818 暴力
@@ -151,6 +158,7 @@
 - POJ-1797 dijkstra 单源最短路 不同的松弛操作
 - POJ-2253 dijkstra 单源最短路 不同的松弛操作
 - POJ-3696 gcd 欧拉定理
+- POJ-3904 容斥原理
 - UVA-122 二叉树 BFS
 - UVA-210 模拟 队列
 - UVA-297 递归
@@ -189,7 +197,9 @@
 - BZOJ-2721 欧拉筛 算术基本原理
 - CodeForces-546D 欧拉筛 dp
 - CodeForces-631D kmp
+- CodeForces-776D 2-sat
 - CodeForces-842D trie
+- CodeForces-884D 哈夫曼树 优先队列
 - CodeForces-906B 构造 dfs / 随机化
 - CodeForces-1077E 贪心
 - CodeForces-1156C 尺取法 贪心
@@ -198,11 +208,15 @@
 - luogu-4168 分块
 - HDU-5894 排列组合
 - HDU-6301 STL-set
+- HDU-6386 bfs dfs
 - HDU-6557 优先队列 并查集
+- HDU-6578 dp 滚动数组
+- HDU-6581 思维 / 二分
 - HDU-6582 最短路 最大流
 
 ### Hard
 - vijos-1554 递推 规律 二进制
+- CodeForces-164C 最小费用最大流
 
 ### Lunatic
 
