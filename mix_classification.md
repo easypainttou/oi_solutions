@@ -116,6 +116,7 @@
 - BZOJ-2038 莫队算法
 - BZOJ-3032 环形均分纸牌 货仓选址
 - BZOJ-3122 快速幂 bsgs 逆元
+- BZOJ-3262 CDQ分治
 - CodeForces-166B 凸包
 - CodeForces-498A 思维 计算几何
 - CodeForces-500B floyd 求闭包
@@ -135,6 +136,7 @@
 - HDU-3065 ac自动机
 - HDU-3336 kmp dp
 - HDU-3374 kmp 最小表示法 最大表示法
+- HDU-3579 excrt
 - HDU-3746 kmp 最小循环节
 - HDU-4300 kmp 公共前缀后缀
 - HDU-4699 对顶栈 前缀和 dp
@@ -217,6 +219,7 @@
 ### Hard
 - vijos-1554 递推 规律 二进制
 - CodeForces-164C 最小费用最大流
+- CodeForces-848C CDQ分治
 
 ### Lunatic
 
