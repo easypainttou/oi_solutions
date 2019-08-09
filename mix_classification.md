@@ -29,6 +29,7 @@
 - POJ-2559 单调栈
 - POJ-2689 素数表 欧拉筛
 - POJ-2739 素数表 尺取法
+- POJ-2774 后缀数组
 - POJ-2893 n*m数码 逆序对
 - POJ-3006 素数表 枚举
 - POJ-3094 水
@@ -128,11 +129,15 @@
 - CodeForces-985F 字符串hash
 - CodeForces-1131D 并查集 拓扑排序
 - CodeForces-1175B 栈 模拟
+- HDU-1069 LIS
 - HDU-1358 kmp 最小循环节
+- HDU-1505 最大子矩阵 dp
+- HDU-1864 01背包
 - HDU-2222 ac自动机
 - HDU-2594 kmp 公共前缀后缀
 - HDU-2609 最小表示法 STL-set
 - HDU-2896 ac自动机
+- HDU-2955 01背包
 - HDU-3065 ac自动机
 - HDU-3336 kmp dp
 - HDU-3374 kmp 最小表示法 最大表示法
@@ -197,18 +202,22 @@
 - loj-10227 高精度 组合数
 - BZOJ-1951 组合数 lucas定理 crt 快速幂 逆元
 - BZOJ-2721 欧拉筛 算术基本原理
+- CodeForces-280B 单调栈
 - CodeForces-546D 欧拉筛 dp
 - CodeForces-631D kmp
 - CodeForces-776D 2-sat
 - CodeForces-842D trie
 - CodeForces-884D 哈夫曼树 优先队列
 - CodeForces-906B 构造 dfs / 随机化
+- CodeForces-961D 计算几何 枚举
 - CodeForces-1077E 贪心
 - CodeForces-1156C 尺取法 贪心
 - CodeForces-1163B 思维
 - CodeForces-1176D 构造 素数表
 - luogu-4168 分块
+- HDU-1421 dp
 - HDU-5894 排列组合
+- HDU-6187 对偶图 欧拉公式 最大生成树
 - HDU-6301 STL-set
 - HDU-6386 bfs dfs
 - HDU-6557 优先队列 并查集
