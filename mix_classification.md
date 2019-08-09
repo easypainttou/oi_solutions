@@ -215,6 +215,7 @@
 - CodeForces-1163B 思维
 - CodeForces-1176D 构造 素数表
 - luogu-4168 分块
+- HDU-1024 dp 滚动数组
 - HDU-1421 dp
 - HDU-5894 排列组合
 - HDU-6187 对偶图 欧拉公式 最大生成树
