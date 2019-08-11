@@ -31,6 +31,7 @@
 - POJ-2739 素数表 尺取法
 - POJ-2774 后缀数组
 - POJ-2893 n*m数码 逆序对
+- POJ-2976 01分数规划 二分
 - POJ-3006 素数表 枚举
 - POJ-3094 水
 - POJ-3263 差分 前缀和
@@ -40,12 +41,12 @@
 - POJ-3889 dfs 分形
 - URAL-1068 水
 - UVA-442 栈
-- UVA-572 DFS染色
+- UVA-572 dfs染色
 - UVA-679 思维
 - UVA-699 递归
-- UVA-11136 STL-multiset
+- UVA-11136 multiset
 - UVA-11488 trie
-- UVA-12558 ida* 埃及分数 STL-set
+- UVA-12558 ida* 埃及分数 set
 - loj-103 kmp / 字符串hash
 - loj-130 树状数组 / 线段树
 - loj-2605 exgcd 线性同余方程
@@ -61,7 +62,7 @@
 - loj-10010 贪心 环形均分纸牌
 - loj-10011 二分 最小值最大
 - loj-10014 二分 最大值最小
-- loj-10016 三分 / 其实可推O（1）公式？
+- loj-10016 三分 / 其实可推O(1)公式？
 - loj-10018 dfs 搜索
 - loj-10034 map / hash
 - loj-10035/POJ-2406 kmp 字符串最小循环元
@@ -75,12 +76,12 @@
 - loj-10105 欧拉回路
 - loj-10106 欧拉道路
 - loj-10114 树状数组 二维偏序
-- loj-10119 st表 RMQ
-- loj-10120 st表 RMQ / 单调队列？
+- loj-10119 st表 rmq
+- loj-10120 st表 rmq / 单调队列？
 - loj-10130 lca
 - loj-10131 lca 树上差分
 - loj-10138 树链剖分
-- loj-10143 平衡树 / STL-set / 链表
+- loj-10143 平衡树 / set / 链表
 - loj-10147 区间dp
 - loj-10148 区间dp
 - loj-10149 区间dp 高精度
@@ -93,10 +94,10 @@
 - loj-10164 数位dp
 - loj-10165 数位dp 记忆化搜索
 - loj-10170 状压dp
-- loj-10175 单调队列 RMQ / st表
+- loj-10175 单调队列 rmq / st表
 - loj-10176 单调队列 dp
 - loj-10177 单调队列 dp
-- loj-10178 单调队列 RMQ
+- loj-10178 单调队列 rmq
 - loj-10179 多重背包 二进制拆分 / 单调队列
 - loj-10184 dp
 - loj-10185 斜率优化 dp
@@ -117,7 +118,7 @@
 - BZOJ-2038 莫队算法
 - BZOJ-3032 环形均分纸牌 货仓选址
 - BZOJ-3122 快速幂 bsgs 逆元
-- BZOJ-3262 CDQ分治
+- BZOJ-3262 cdq分治
 - CodeForces-166B 凸包
 - CodeForces-498A 思维 计算几何
 - CodeForces-500B floyd 求闭包
@@ -126,16 +127,17 @@
 - CodeForces-546E 最大流
 - CodeForces-670C map 排序
 - CodeForces-731C dfs / 并查集
+- CodeForces-916B 贪心 水 multiset
 - CodeForces-985F 字符串hash
 - CodeForces-1131D 并查集 拓扑排序
 - CodeForces-1175B 栈 模拟
-- HDU-1069 LIS
+- HDU-1069 lis
 - HDU-1358 kmp 最小循环节
 - HDU-1505 最大子矩阵 dp
 - HDU-1864 01背包
 - HDU-2222 ac自动机
 - HDU-2594 kmp 公共前缀后缀
-- HDU-2609 最小表示法 STL-set
+- HDU-2609 最小表示法 set
 - HDU-2896 ac自动机
 - HDU-2955 01背包
 - HDU-3065 ac自动机
@@ -164,13 +166,15 @@
 - POJ-1019 打表 思维
 - POJ-1797 dijkstra 单源最短路 不同的松弛操作
 - POJ-2253 dijkstra 单源最短路 不同的松弛操作
+- POJ-2728 01分数规划 最小生成树
+- POJ-3691/HDU-2457 ac自动机 dp
 - POJ-3696 gcd 欧拉定理
 - POJ-3904 容斥原理
-- UVA-122 二叉树 BFS
+- UVA-122 二叉树 bfs
 - UVA-210 模拟 队列
 - UVA-297 递归
 - UVA-514 模拟 栈
-- UVA-548 二叉树 DFS
+- UVA-548 二叉树 dfs
 - UVA-839 递归
 - UVA-1599 bfs 最短路 最小字典序
 - UVA-11988 链表
@@ -197,13 +201,14 @@
 - loj-10099 tarjan 割点 点双连通
 - loj-10115 树状数组
 - loj-10121 dp st表 二分
-- loj-10132 lca STL-set
+- loj-10132 lca set
 - loj-10133 次小生成树 kruskal lca
 - loj-10227 高精度 组合数
 - BZOJ-1951 组合数 lucas定理 crt 快速幂 逆元
 - BZOJ-2721 欧拉筛 算术基本原理
 - CodeForces-280B 单调栈
 - CodeForces-546D 欧拉筛 dp
+- CodeForces-607B 区间dp
 - CodeForces-631D kmp
 - CodeForces-776D 2-sat
 - CodeForces-842D trie
@@ -219,7 +224,7 @@
 - HDU-1421 dp
 - HDU-5894 排列组合
 - HDU-6187 对偶图 欧拉公式 最大生成树
-- HDU-6301 STL-set
+- HDU-6301 set
 - HDU-6386 bfs dfs
 - HDU-6557 优先队列 并查集
 - HDU-6578 dp 滚动数组
@@ -229,7 +234,7 @@
 ### Hard
 - vijos-1554 递推 规律 二进制
 - CodeForces-164C 最小费用最大流
-- CodeForces-848C CDQ分治
+- CodeForces-848C cdq分治
 
 ### Lunatic
 
