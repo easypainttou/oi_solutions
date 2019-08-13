@@ -44,6 +44,7 @@
 - UVA-572 dfs染色
 - UVA-679 思维
 - UVA-699 递归
+- UVA-10213 欧拉公式 高精度
 - UVA-11136 multiset
 - UVA-11488 trie
 - UVA-12558 ida* 埃及分数 set
@@ -164,9 +165,11 @@
 
 ### Normal
 - POJ-1019 打表 思维
+- POJ-1741 点分治 树的重心
 - POJ-1797 dijkstra 单源最短路 不同的松弛操作
 - POJ-2253 dijkstra 单源最短路 不同的松弛操作
 - POJ-2728 01分数规划 最小生成树
+- POJ-3304 计算几何 相交 枚举
 - POJ-3691/HDU-2457 ac自动机 dp
 - POJ-3696 gcd 欧拉定理
 - POJ-3904 容斥原理
@@ -211,6 +214,7 @@
 - CodeForces-607B 区间dp
 - CodeForces-631D kmp
 - CodeForces-776D 2-sat
+- CodeForces-827C 树状数组 剩余类
 - CodeForces-842D trie
 - CodeForces-884D 哈夫曼树 优先队列
 - CodeForces-906B 构造 dfs / 随机化
@@ -219,6 +223,7 @@
 - CodeForces-1156C 尺取法 贪心
 - CodeForces-1163B 思维
 - CodeForces-1176D 构造 素数表
+- luogu-3806 点分治
 - luogu-4168 分块
 - HDU-1024 dp 滚动数组
 - HDU-1421 dp
@@ -226,6 +231,7 @@
 - HDU-6187 对偶图 欧拉公式 最大生成树
 - HDU-6301 set
 - HDU-6386 bfs dfs
+- HDU-6411 并查集 二进制拆分
 - HDU-6557 优先队列 并查集
 - HDU-6578 dp 滚动数组
 - HDU-6581 思维 / 二分
