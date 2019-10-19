@@ -9,6 +9,7 @@
 - POJ-1338 打表 / dp？
 - POJ-1552 水
 - POJ-1581 水
+- POJ-1651 区间dp
 - POJ-1733 带权并查集
 - POJ-1830 高斯消元 状压
 - POJ-1833 输出挂
@@ -31,14 +32,17 @@
 - POJ-2739 素数表 尺取法
 - POJ-2774 后缀数组
 - POJ-2893 n*m数码 逆序对
+- POJ-2955 区间dp
 - POJ-2976 01分数规划 二分
 - POJ-3006 素数表 枚举
 - POJ-3094 水
 - POJ-3263 差分 前缀和
 - POJ-3299 水 / 减半递推？
+- POJ-3335 半平面交
 - POJ-3468 树状数组 / 分块 / 线段树
 - POJ-3784 对顶堆 中位数
 - POJ-3889 dfs 分形
+- POJ-3974 最长回文子串 manacher
 - URAL-1068 水
 - UVA-442 栈
 - UVA-572 dfs染色
@@ -120,6 +124,7 @@
 - BZOJ-3032 环形均分纸牌 货仓选址
 - BZOJ-3122 快速幂 bsgs 逆元
 - BZOJ-3262 cdq分治
+- BZOJ-4195 离散化 并查集
 - CodeForces-166B 凸包
 - CodeForces-498A 思维 计算几何
 - CodeForces-500B floyd 求闭包
@@ -146,7 +151,9 @@
 - HDU-3374 kmp 最小表示法 最大表示法
 - HDU-3579 excrt
 - HDU-3746 kmp 最小循环节
+- HDU-4193 单调队列
 - HDU-4300 kmp 公共前缀后缀
+- HDU-4513 manacher
 - HDU-4699 对顶栈 前缀和 dp
 - HDU-4856 bfs 状压dp tsp
 - PTA-7-20 中缀表达式 后缀表达式 栈 / 表达式树
@@ -162,11 +169,18 @@
 - LightOJ-1370 欧拉函数 欧拉筛
 - FZU-1901 kmp 循环节
 - ZOJ-3818 暴力
+- LightOJ-1027 期望
+- LightOJ-1030 概率dp
+- LightOJ-1038 概率dp
+- LightOJ-1079 01背包 概率
+- LightOJ-1248 期望
+- LightOJ-1422 区间dp
 
 ### Normal
 - POJ-1019 打表 思维
 - POJ-1741 点分治 树的重心
 - POJ-1797 dijkstra 单源最短路 不同的松弛操作
+- POJ-2228 dp 环形
 - POJ-2253 dijkstra 单源最短路 不同的松弛操作
 - POJ-2728 01分数规划 最小生成树
 - POJ-3304 计算几何 相交 枚举

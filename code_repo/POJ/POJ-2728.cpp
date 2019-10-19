@@ -35,7 +35,7 @@ double len[MAX_N][MAX_N], dis[MAX_N];
 bool vis[MAX_N];
 
 //堆优化的会T 绝了 
-bool prime(double x) {
+bool prim(double x) {
 	double sum = 0;
 	inc(i, 1, n) vis[i] = 0, dis[i] = INF;
 	dis[1] = 0;
@@ -72,7 +72,7 @@ void solve() {
 		double L = 0, R = 100; //
 		while (fabs(R - L) >= EPS) {
 			double mid = (L + R) / 2;
-			if (prime(mid)) R = mid;
+			if (prim(mid)) R = mid;
 			else L = mid;
 		}
 		printf("%.3f\n", R);
