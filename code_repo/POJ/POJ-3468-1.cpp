@@ -5,6 +5,8 @@
 树状数组
 分块
 线段树
+
+以下分块
 */
 #include<cstdio>
 #include<cstring>

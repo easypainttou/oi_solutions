@@ -27,6 +27,7 @@
 - POJ-2387 dijkstra 单源最短路
 - POJ-2449 k短路 a*
 - POJ-2482 线段树 扫描线
+- POJ-2528 线段树 离散化
 - POJ-2559 单调栈
 - POJ-2689 素数表 欧拉筛
 - POJ-2739 素数表 尺取法
@@ -139,8 +140,10 @@
 - CodeForces-1131D 并查集 拓扑排序
 - CodeForces-1175B 栈 模拟
 - HDU-1069 lis
+- HDU-1166 线段树 / 树状数组
 - HDU-1358 kmp 最小循环节
 - HDU-1505 最大子矩阵 dp
+- HDU-1698 线段树
 - HDU-1864 01背包
 - HDU-2222 ac自动机
 - HDU-2594 kmp 公共前缀后缀
@@ -168,6 +171,9 @@
 - luogu-2158 数论 gcd 欧拉函数
 - luogu-3381 最小费用最大流
 - luogu-3389 高斯消元
+- luogu-3567 主席树
+- luogu-3834 主席树
+- luogu-4735 可持久化trie
 - LightOJ-1370 欧拉函数 欧拉筛
 - FZU-1901 kmp 循环节
 - ZOJ-3818 暴力
