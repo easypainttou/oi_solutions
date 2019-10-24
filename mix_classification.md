@@ -155,6 +155,8 @@
 - HDU-3374 kmp 最小表示法 最大表示法
 - HDU-3579 excrt
 - HDU-3746 kmp 最小循环节
+- HDU-3974 线段树 dfs序
+- HDU-4027 线段树 开根号
 - HDU-4193 单调队列
 - HDU-4300 kmp 公共前缀后缀
 - HDU-4513 manacher
@@ -172,7 +174,7 @@
 - luogu-3381 最小费用最大流
 - luogu-3389 高斯消元
 - luogu-3567 主席树
-- luogu-3834 主席树
+- luogu-3834 主席树 静态区间第k小
 - luogu-4735 可持久化trie
 - LightOJ-1370 欧拉函数 欧拉筛
 - FZU-1901 kmp 循环节
@@ -248,6 +250,7 @@
 - CodeForces-1156C 尺取法 贪心
 - CodeForces-1163B 思维
 - CodeForces-1176D 构造 素数表
+- luogu-2633 主席树 树上路径第k小
 - luogu-3806 点分治
 - luogu-4168 分块
 - HDU-1024 dp 滚动数组
