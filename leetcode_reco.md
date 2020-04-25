@@ -1,0 +1,3 @@
+| id | difficulty | knowledge | frequency |
+| ------ | ------ | ------ | ------ |
+
