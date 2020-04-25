@@ -163,7 +163,10 @@
 - HDU-4699 对顶栈 前缀和 dp
 - HDU-4856 bfs 状压dp tsp
 - PTA-7-20 中缀表达式 后缀表达式 栈 / 表达式树
+- vijos-1217 水 
 - vijos-1696 连分数
+- vijos-1848 水
+- vijos-1911 水
 - luogu-1073 dijkstra
 - luogu-1338 数学 贪心
 - luogu-1372 gcd 数论
@@ -185,6 +188,8 @@
 - LightOJ-1079 01背包 概率
 - LightOJ-1248 期望
 - LightOJ-1422 区间dp
+- PAT-B-1001 水
+- PAT-B-1002 水
 
 ### Normal
 - POJ-1019 打表 思维
