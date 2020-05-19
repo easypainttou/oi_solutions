@@ -1,5 +1,11 @@
 /*
 ...
+loj10004为O(n^2)
+
+以下为O(nlogn)
+
+用并查集实现O(n)：
+http://www.neptuuz.com/wordpress/?p=421
 */
 
 #include<bits/stdc++.h>
