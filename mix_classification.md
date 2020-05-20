@@ -71,6 +71,7 @@
 - loj-10014 二分 最大值最小
 - loj-10016 三分 / 其实可推O(1)公式？
 - loj-10018 dfs 搜索
+- loj-10021 iddfs
 - loj-10034 map / hash
 - loj-10035/POJ-2406 kmp 字符串最小循环元
 - loj-10036/POJ-2752 kmp 公共前缀后缀
